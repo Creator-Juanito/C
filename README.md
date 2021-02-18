@@ -1,2 +1,2 @@
-# Homeworks-3
+# C
 C-language basic programming course 
