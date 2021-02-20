@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define lower 0
 #define upper 300
-#define step 30
+#define step 20
 
 main()
 {
