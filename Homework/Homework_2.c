@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 #define CHAR_BITS 8
 
 void 
@@ -30,5 +29,4 @@ int main()
 		printf("%d\n",numero);
 		cont=0;
 	}	
-	getch();
 }
