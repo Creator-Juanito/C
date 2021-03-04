@@ -22,7 +22,7 @@ int main()
 {
 	int numero,a,num,cont=0;
 	
-	for(numero=2;numero<=50;numero++){ //La condición puede ser cambiada al número que tú gustes
+	for(numero=2;numero<=50;numero++){ //Puedes cambiar el número límite para imprimir números:)
 		for(a=2;a<=numero;a++)
 		if(numero%a==0)
 		cont++;
