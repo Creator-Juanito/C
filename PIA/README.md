@@ -15,11 +15,13 @@ The three magnitudes it has are:
 1. Speed
 2. Length
 3. Time
+
 The magnitude "velocity" has the following units:
 - Unit: Kilometer per hour (km / h)
 - Unit: Meter per second (m / s)
 - Unit: Mile per hour (mi / h)
 - Unit: Foot per second (ft / s)
+
 The quantity "length" has the following units:
 - Unit: Kilometer (km)
 - Unit: Meter (m)
@@ -28,6 +30,7 @@ The quantity "length" has the following units:
 - Unit: Yard (yd)
 - Unit: Foot (feet)
 - Unit: Inch (inches)
+
 The magnitude "time" has the following units:
 - Unit: Day (day)
 - Unit: Hour (h)
@@ -47,12 +50,12 @@ The code used "switch case", "void" and headers. All the information about where
 The "switch case" was used to create different conditions, depending on the options that the user takes, different cases will be executed.
 It was done as follows:
 
-switch (option) {/ * Depending on the option chosen, a case is executed * /
-        case value1: / * Instruction block 1 * /
+switch (option) { /* Depending on the option chosen, a case is executed */
+        case value1: /* Instruction block 1 */
         break;
-        case value2: / * Instruction block 2 * /
+        case value2: /* Instruction block 2 */
         break;
-        default: / * Default statement block * /
+        default: /* Default statement block */
 }
 
 The "void" was used to return a value when a certain function is called.
@@ -67,6 +70,7 @@ For the headers, it was used for the different #includes and voids. **The name o
 
 ## References
 fresh2refresh. (n.d.). What is void in C? | C Interview Questions | Fresh2Refresh.com. Fresh2refresh.Com. Retrieved May 19, 2021, from https://fresh2refresh.com/c-programming/c-interview-questions-answers/what-is-void-in-c/#:%7E:text=Void%20is%20an%%2020empty%%2020data,%20value%%2020to%%2020the%%2020calling%%2020function
+
 González, J. D. M. (2021, January 3). Conditional switch. Schedule NOW. https://www.programarya.com/Ccursos/C++/Condicionales/Conditional-switch
 
 ### Made by: JuanitoNito7
