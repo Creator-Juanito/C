@@ -50,7 +50,9 @@ The code used "switch case", "void" and headers. All the information about where
 The "switch case" was used to create different conditions, depending on the options that the user takes, different cases will be executed.
 It was done as follows:
 
-switch (option) { /* Depending on the option chosen, a case is executed */
+
+switch(option) /* Depending on the option chosen, a case is executed */
+{
 
         case value1: /* Instruction block 1 */
         
@@ -67,9 +69,10 @@ switch (option) { /* Depending on the option chosen, a case is executed */
 The "void" was used to return a value when a certain function is called.
 The following form was used:
 
-nameFunction (); / * Call the function * /
+nameFunction(); /* Call the function */
 
-Int nameFunction (void) {/ * Function instructions * /
+int nameFunction(void) { /* Function instructions */
+
 }
 
 For the headers, it was used for the different #includes and voids. **The name of the header file I used is _"header.h"_, while the executions were in _"main.c"_. If you intend to use this program, be sure to correctly name the files.**
