@@ -51,11 +51,17 @@ The "switch case" was used to create different conditions, depending on the opti
 It was done as follows:
 
 switch (option) { /* Depending on the option chosen, a case is executed */
+
         case value1: /* Instruction block 1 */
+        
         break;
+        
         case value2: /* Instruction block 2 */
+        
         break;
+        
         default: /* Default statement block */
+        
 }
 
 The "void" was used to return a value when a certain function is called.
