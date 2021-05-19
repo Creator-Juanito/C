@@ -1,5 +1,4 @@
 # UNIT CONVERTER
-## By: JuanitoNito7
 
 ### Introduction
 
