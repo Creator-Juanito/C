@@ -1,3 +1,4 @@
+/*Nombre del archivo: main.c*/
 #include "header.h"
 
 int main(){
