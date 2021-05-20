@@ -82,4 +82,13 @@ fresh2refresh. (n.d.). What is void in C? | C Interview Questions | Fresh2Refres
 
 González, J. D. M. (2021, January 3). Conditional switch. Schedule NOW. https://www.programarya.com/Ccursos/C++/Condicionales/Conditional-switch
 
+## Autoevaluation
+1. Complexity 1, the truth is not very complicated
+2. Functionality 3, works correctly
+3. Code 3, it is clean and easy to understand
+4. Storage 3, has great storage
+5. Documentation 3, the documentation is correct and the video is not a big deal but it works
+
+CF: 13pts
+
 ### Made by: JuanitoNito7
