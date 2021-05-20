@@ -87,8 +87,8 @@ González, J. D. M. (2021, January 3). Conditional switch. Schedule NOW. https:/
 2. Functionality 3, works correctly
 3. Code 3, it is clean and easy to understand
 4. Storage 3, has great storage
-5. Documentation 3, the documentation is correct and the video is not a big deal but it works
+5. Documentation 2, the documentation is correct and the video is not a big deal but it works
 
-CF: 13pts
+CF: 12pts
 
 ### Made by: JuanitoNito7
